@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/alep007/django-training-api.svg?branch=master)](https://travis-ci.com/alep007/django-training-api)
+
 # django-training-api
 Course from udemy to start working with Django
 
